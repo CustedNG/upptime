@@ -13,8 +13,6 @@ sites:
     url: https://cust.cc
   - name: 长理www
     url: https://www.cust.edu.cn
-  - name: 长理mysso
-    url: https://mysso.cust.edu.cn
   
 
 status-website:
