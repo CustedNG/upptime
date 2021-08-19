@@ -76,19 +76,19 @@
     "url": "https://www.cust.edu.cn",
     "icon": "https://favicons.githubusercontent.com/www.cust.edu.cn",
     "slug": "www",
-    "status": "down",
-    "uptime": "72.52%",
-    "uptimeDay": "72.52%",
-    "uptimeWeek": "72.52%",
-    "uptimeMonth": "72.52%",
-    "uptimeYear": "72.52%",
-    "time": 1765,
-    "timeDay": 1765,
-    "timeWeek": 1765,
-    "timeMonth": 1765,
-    "timeYear": 1765,
+    "status": "up",
+    "uptime": "70.13%",
+    "uptimeDay": "70.13%",
+    "uptimeWeek": "70.13%",
+    "uptimeMonth": "70.13%",
+    "uptimeYear": "70.13%",
+    "time": 1781,
+    "timeDay": 1781,
+    "timeWeek": 1781,
+    "timeMonth": 1781,
+    "timeYear": 1781,
     "dailyMinutesDown": {
-      "2021-08-19": 67
+      "2021-08-19": 75
     }
   },
   {
@@ -108,7 +108,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-19": 243
+      "2021-08-19": 251
     }
   }
 ]
