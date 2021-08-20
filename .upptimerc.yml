@@ -2,6 +2,7 @@
 owner: CustedNG # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+
 sites:
   - name: CustedNG
     url: https://cust.app
@@ -11,13 +12,7 @@ sites:
     url: https://cust.wiki
   - name: Cust+
     url: https://cust.cc
-  - name: 长理www
-    url: https://www.cust.edu.cn
-    maxResponseTime: 10000
-  - name: 长理mysso
-    url: https://mysso.cust.edu.cn
-    maxResponseTime: 10000
-  
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
