@@ -28,7 +28,7 @@
     "url": "https://v2.custed.lolli.tech/",
     "icon": "https://favicons.githubusercontent.com/v2.custed.lolli.tech",
     "slug": "custed-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "99.34%",
     "uptimeWeek": "99.74%",
@@ -40,6 +40,7 @@
     "timeMonth": 798,
     "timeYear": 844,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-11-01": 9,
       "2021-10-30": 17,
       "2021-10-14": 32,
