@@ -35,7 +35,7 @@
     "time": 962,
     "timeDay": 830,
     "timeWeek": 845,
-    "timeMonth": 1029,
+    "timeMonth": 843,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2021-11-02": 71,
@@ -75,9 +75,9 @@
     "url": "https://cust.cc",
     "icon": "https://favicons.githubusercontent.com/cust.cc",
     "slug": "cust",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.55%",
@@ -87,6 +87,7 @@
     "timeMonth": 889,
     "timeYear": 937,
     "dailyMinutesDown": {
+      "2021-12-03": 0,
       "2021-11-24": 17,
       "2021-10-17": 18,
       "2021-10-15": 24,
