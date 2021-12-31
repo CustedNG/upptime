@@ -1,7 +1,7 @@
 url: https://v2.custed.lolli.tech/
-status: up
-code: 200
-responseTime: 1087
-lastUpdated: 2021-12-31T10:35:10.768Z
+status: down
+code: 502
+responseTime: 5595
+lastUpdated: 2021-12-31T12:21:39.423Z
 startTime: Thu Aug 19 2021 13:22:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
