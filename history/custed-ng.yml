@@ -1,7 +1,7 @@
 url: https://cust.app
-status: down
-code: 502
-responseTime: 264
-lastUpdated: 2023-04-28T13:30:02.879Z
+status: up
+code: 200
+responseTime: 213
+lastUpdated: 2023-04-28T13:39:04.162Z
 startTime: Thu Aug 19 2021 13:22:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
