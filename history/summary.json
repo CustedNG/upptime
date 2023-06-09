@@ -10,10 +10,10 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.03%",
-    "time": 324,
-    "timeDay": 275,
-    "timeWeek": 254,
-    "timeMonth": 247,
+    "time": 323,
+    "timeDay": 276,
+    "timeWeek": 240,
+    "timeMonth": 248,
     "timeYear": 289,
     "dailyMinutesDown": {
       "2023-06-06": 19,
@@ -69,8 +69,7 @@
       "2022-06-18": 38,
       "2022-06-17": 138,
       "2022-06-14": 106,
-      "2022-06-10": 20,
-      "2022-06-09": 28
+      "2022-06-10": 20
     }
   },
   {
@@ -79,18 +78,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.custed.lolli.tech.ico",
     "slug": "custed-backend",
     "status": "down",
-    "uptime": "77.97%",
+    "uptime": "77.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.43%",
-    "time": 1495,
+    "uptimeYear": "60.15%",
+    "time": 1497,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1775,
+    "timeYear": 1778,
     "dailyMinutesDown": {
-      "2023-06-08": 70,
+      "2023-06-09": 72,
+      "2023-06-08": 1440,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
@@ -251,10 +251,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.70%",
-    "time": 774,
-    "timeDay": 645,
-    "timeWeek": 454,
-    "timeMonth": 800,
+    "time": 773,
+    "timeDay": 463,
+    "timeWeek": 445,
+    "timeMonth": 801,
     "timeYear": 735,
     "dailyMinutesDown": {
       "2023-05-18": 17,
@@ -286,8 +286,7 @@
       "2022-06-19": 37,
       "2022-06-18": 37,
       "2022-06-17": 107,
-      "2022-06-14": 65,
-      "2022-06-09": 17
+      "2022-06-14": 65
     }
   },
   {
@@ -301,8 +300,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.66%",
-    "time": 585,
-    "timeDay": 330,
+    "time": 584,
+    "timeDay": 342,
     "timeWeek": 271,
     "timeMonth": 449,
     "timeYear": 570,
@@ -348,8 +347,7 @@
       "2022-06-18": 36,
       "2022-06-17": 107,
       "2022-06-14": 81,
-      "2022-06-10": 19,
-      "2022-06-09": 16
+      "2022-06-10": 19
     }
   }
 ]
