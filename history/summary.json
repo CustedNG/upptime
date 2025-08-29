@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cust.app.ico",
     "slug": "custed-ng",
     "status": "up",
-    "uptime": "80.37%",
+    "uptime": "80.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 300,
-    "timeWeek": 336,
-    "timeMonth": 267,
+    "timeDay": 144,
+    "timeWeek": 322,
+    "timeMonth": 264,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.custed.lolli.tech.ico",
     "slug": "custed-backend",
     "status": "down",
-    "uptime": "34.88%",
+    "uptime": "34.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-28": 76,
+      "2025-08-29": 76,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -397,8 +398,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 1440,
-      "2024-08-29": 1440
+      "2024-08-30": 1440
     }
   },
   {
@@ -407,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cust.wiki.ico",
     "slug": "cust-wiki",
     "status": "down",
-    "uptime": "58.26%",
+    "uptime": "58.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -415,10 +415,11 @@
     "time": 275,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 142,
+    "timeMonth": 0,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2025-08-28": 76,
+      "2025-08-29": 76,
+      "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
       "2025-08-25": 1440,
@@ -781,8 +782,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 1440,
-      "2024-08-29": 1440
+      "2024-08-30": 1440
     }
   },
   {
@@ -791,16 +791,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cust.cc.ico",
     "slug": "cust",
     "status": "up",
-    "uptime": "58.39%",
+    "uptime": "58.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.49%",
-    "uptimeMonth": "6.49%",
-    "uptimeYear": "0.70%",
-    "time": 139,
-    "timeDay": 870,
-    "timeWeek": 556,
-    "timeMonth": 252,
-    "timeYear": 144,
+    "uptimeWeek": "50.78%",
+    "uptimeMonth": "9.78%",
+    "uptimeYear": "0.97%",
+    "time": 140,
+    "timeDay": 562,
+    "timeWeek": 559,
+    "timeMonth": 264,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2025-08-26": 80,
       "2025-08-25": 637,
@@ -1163,8 +1163,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
-      "2024-08-30": 1440,
-      "2024-08-29": 1440
+      "2024-08-30": 1440
     }
   }
 ]
