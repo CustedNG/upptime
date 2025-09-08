@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/cust.app.ico",
     "slug": "custed-ng",
     "status": "up",
-    "uptime": "80.50%",
+    "uptime": "80.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 171,
-    "timeWeek": 225,
+    "timeDay": 189,
+    "timeWeek": 226,
     "timeMonth": 273,
     "timeYear": 203,
     "dailyMinutesDown": {}
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/v2.custed.lolli.tech.ico",
     "slug": "custed-backend",
     "status": "down",
-    "uptime": "34.65%",
+    "uptime": "34.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-07": 79,
+      "2025-09-08": 78,
+      "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -397,8 +398,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cust.wiki.ico",
     "slug": "cust-wiki",
     "status": "down",
-    "uptime": "57.86%",
+    "uptime": "57.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 275,
+    "time": 274,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2025-09-07": 79,
+      "2025-09-08": 78,
+      "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
@@ -781,8 +782,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   },
   {
@@ -791,16 +791,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cust.cc.ico",
     "slug": "cust",
     "status": "up",
-    "uptime": "58.67%",
+    "uptime": "58.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
-    "uptimeMonth": "39.23%",
-    "uptimeYear": "3.43%",
-    "time": 152,
-    "timeDay": 616,
-    "timeWeek": 668,
-    "timeMonth": 432,
-    "timeYear": 161,
+    "uptimeMonth": "42.52%",
+    "uptimeYear": "3.70%",
+    "time": 153,
+    "timeDay": 540,
+    "timeWeek": 647,
+    "timeMonth": 444,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2025-09-02": 60,
       "2025-08-26": 80,
@@ -1154,8 +1154,7 @@
       "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
-      "2024-09-09": 1440,
-      "2024-09-08": 1440
+      "2024-09-09": 1440
     }
   }
 ]
